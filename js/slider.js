@@ -3,8 +3,11 @@
  */
 
 /*
- * options.current
+ *
  * options.dom
+ * options.speed
+ * options.autoTime
+ * options.height  轮播图片的高度
  *
  * */
 var Slider = function (options) {
